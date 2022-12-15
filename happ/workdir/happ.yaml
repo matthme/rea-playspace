@@ -4,7 +4,7 @@ name: rea-playspace
 description: ~
 roles:
 
-  - id: reaplayspace
+  - name: reaplayspace
     provisioning:
       strategy: create
       deferred: false

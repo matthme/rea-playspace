@@ -6,6 +6,8 @@ user2-data
 user-data
 electron/web
 .cargo
+*.webhapp
+*.happ
 
 ui/dist/*
 ui/ui.zip
